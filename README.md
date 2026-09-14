@@ -2,9 +2,9 @@
 
 Virtual folder organization for the WordPress Media Library without moving files on disk or changing media URLs.
 
-This repository is the **Mivama Digital maintained distribution** of Virtual Media Folders. It is based on the original [`soderlind/virtual-media-folders`](https://github.com/soderlind/virtual-media-folders) project created by Per Søderlind. Original authorship, copyright notices, Git history, and GPL licensing are intentionally preserved.
+This repository is the **Mivabyte Digital maintained distribution** of Virtual Media Folders. It is based on the original [`soderlind/virtual-media-folders`](https://github.com/soderlind/virtual-media-folders) project created by Per Søderlind. Original authorship, copyright notices, Git history, and GPL licensing are intentionally preserved.
 
-> **Maintenance model:** Mivama maintains its own roadmap, releases, CI, support process, and repository governance. Relevant upstream changes may be reviewed and adopted deliberately; upstream is not merged automatically.
+> **Maintenance model:** Mivabyte maintains its own roadmap, releases, CI, support process, and repository governance. Relevant upstream changes may be reviewed and adopted deliberately; upstream is not merged automatically.
 
 ## Features
 
@@ -23,18 +23,18 @@ This repository is the **Mivama Digital maintained distribution** of Virtual Med
 
 ## Installation
 
-### Mivama release
+### Mivabyte release
 
-When a Mivama release is published:
+When a Mivabyte release is published:
 
-1. Open the [Mivama releases](https://github.com/mivama-digital/media-folders/releases) page.
+1. Open the [Mivabyte releases](https://github.com/mivabyte-digital/media-folders/releases) page.
 2. Download the `virtual-media-folders.zip` asset from the desired release.
 3. In WordPress, go to **Plugins > Add New > Upload Plugin**.
 4. Upload the ZIP and activate the plugin.
 
-Until the first Mivama release is published, treat `main` as development source rather than a stable binary distribution.
+Until the first Mivabyte release is published, treat `main` as development source rather than a stable binary distribution.
 
-The original project is also published at [WordPress.org](https://wordpress.org/plugins/virtual-media-folders/). The Mivama repository does not treat that listing as its deployment target unless WordPress.org release ownership and credentials are explicitly configured for Mivama.
+The original project is also published at [WordPress.org](https://wordpress.org/plugins/virtual-media-folders/). The Mivabyte repository does not treat that listing as its deployment target unless WordPress.org release ownership and credentials are explicitly configured for Mivabyte.
 
 ## Usage
 
@@ -81,7 +81,7 @@ Pull requests should pass the repository CI before merge. See [CONTRIBUTING.md](
 
 ## Versioning and releases
 
-Mivama **continues the existing plugin version lineage** instead of resetting the plugin to `1.0.0`. Resetting the version would create incorrect downgrade/update semantics for installations already using the `virtual-media-folders` plugin slug.
+Mivabyte **continues the existing plugin version lineage** instead of resetting the plugin to `1.0.0`. Resetting the version would create incorrect downgrade/update semantics for installations already using the `virtual-media-folders` plugin slug.
 
 Release policy:
 
@@ -122,7 +122,7 @@ The distributable ZIP intentionally excludes Composer package-manager metadata a
 
 ## Upstream and attribution
 
-Virtual Media Folders was created by **Per Søderlind**. Mivama's repository preserves that origin rather than relying on GitHub's `forked from ...` banner as the only attribution mechanism.
+Virtual Media Folders was created by **Per Søderlind**. Mivabyte's repository preserves that origin rather than relying on GitHub's `forked from ...` banner as the only attribution mechanism.
 
 For the maintenance policy, synchronization rules, and attribution details, see [UPSTREAM.md](UPSTREAM.md).
 
@@ -130,4 +130,4 @@ For the maintenance policy, synchronization rules, and attribution details, see 
 
 Licensed under **GPL-2.0-or-later**. See [LICENSE](LICENSE) for the repository license notice.
 
-Original Virtual Media Folders copyright remains with its respective author(s). Subsequent Mivama changes remain subject to the same GPL-compatible licensing requirements.
+Original Virtual Media Folders copyright remains with its respective author(s). Subsequent Mivabyte changes remain subject to the same GPL-compatible licensing requirements.

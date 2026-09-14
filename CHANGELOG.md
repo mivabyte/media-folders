@@ -17,7 +17,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Replaced the broad `@wordpress/scripts` meta-package with the focused Webpack/Babel/PostCSS/Vitest toolchain actually used by the plugin.
 - Updated the directly pinned WordPress runtime packages to their current compatible same-major releases.
 - Upgraded PHPUnit to 12, Webpack CLI to 7, babel-loader to 10, the CSS toolchain majors, and the Vite React adapter to Vite 8 while retaining the validated React 18 WordPress host contract.
-- Updated maintained-repository documentation links and release instructions for the Mivama distribution.
+- Updated maintained-repository documentation links and release instructions for the Mivabyte distribution.
 
 ### Distribution
 

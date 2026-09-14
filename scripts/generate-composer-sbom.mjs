@@ -60,7 +60,7 @@ const sbom = {
 		},
 		properties: [
 			{
-				name: 'mivama:php-runtime-vendor-policy',
+				name: 'mivabyte:php-runtime-vendor-policy',
 				value: 'vendor-free; composer/installers is installation-only and excluded from distribution',
 			},
 		],

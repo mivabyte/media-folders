@@ -113,7 +113,7 @@ WordPress.org deployment is separate from GitHub release publication.
 - Deployment is manual and confirmation-gated.
 - Dry-run remains the default.
 - A Git tag or GitHub release never silently performs a WordPress.org commit.
-- Perform a real WordPress.org deployment only when the required WordPress.org ownership and credentials are configured for the Mivama-maintained release process.
+- Perform a real WordPress.org deployment only when the required WordPress.org ownership and credentials are configured for the Mivabyte-maintained release process.
 
 The GitHub release workflow has no WordPress.org credentials and does not call the WordPress.org deployment action.
 

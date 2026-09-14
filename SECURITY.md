@@ -2,7 +2,7 @@
 
 ## Supported versions
 
-Security fixes target the latest Mivama-maintained release unless a release note explicitly states broader support.
+Security fixes target the latest Mivabyte-maintained release unless a release note explicitly states broader support.
 
 | Version | Supported |
 | --- | --- |
@@ -16,7 +16,7 @@ Do **not** open a public issue for a suspected vulnerability.
 
 Use GitHub's private vulnerability reporting for this repository:
 
-https://github.com/mivama-digital/media-folders/security/advisories/new
+https://github.com/mivabyte-digital/media-folders/security/advisories/new
 
 Include, where possible:
 
@@ -28,6 +28,6 @@ Include, where possible:
 
 ## Disclosure process
 
-Mivama will validate reports against the Mivama-maintained distribution, coordinate a fix and release when needed, and credit reporters when requested and appropriate.
+Mivabyte will validate reports against the Mivabyte-maintained distribution, coordinate a fix and release when needed, and credit reporters when requested and appropriate.
 
-If a vulnerability originates in unchanged upstream code, Mivama may coordinate with the upstream maintainer while avoiding premature public disclosure.
+If a vulnerability originates in unchanged upstream code, Mivabyte may coordinate with the upstream maintainer while avoiding premature public disclosure.
