@@ -12,7 +12,7 @@ The Git history and original copyright notices are preserved.
 
 ## Mivabyte maintenance model
 
-`mivabyte-digital/media-folders` is maintained as an independent Mivabyte distribution with its own:
+`mivabyte/media-folders` is maintained as an independent Mivabyte distribution with its own:
 
 - roadmap;
 - issue and pull-request process;
@@ -30,7 +30,7 @@ Upstream changes are reviewed deliberately rather than merged automatically.
 Recommended local remotes:
 
 ```text
-origin   https://github.com/mivabyte-digital/media-folders.git
+origin   https://github.com/mivabyte/media-folders.git
 upstream https://github.com/soderlind/virtual-media-folders.git
 ```
 

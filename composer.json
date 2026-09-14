@@ -25,8 +25,8 @@
 		}
 	],
 	"support": {
-		"issues": "https://github.com/mivabyte-digital/media-folders/issues",
-		"source": "https://github.com/mivabyte-digital/media-folders"
+		"issues": "https://github.com/mivabyte/media-folders/issues",
+		"source": "https://github.com/mivabyte/media-folders"
 	},
 	"require": {
 		"php": ">=8.3",

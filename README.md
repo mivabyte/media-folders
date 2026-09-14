@@ -27,7 +27,7 @@ This repository is the **Mivabyte Digital maintained distribution** of Virtual M
 
 When a Mivabyte release is published:
 
-1. Open the [Mivabyte releases](https://github.com/mivabyte-digital/media-folders/releases) page.
+1. Open the [Mivabyte releases](https://github.com/mivabyte/media-folders/releases) page.
 2. Download the `virtual-media-folders.zip` asset from the desired release.
 3. In WordPress, go to **Plugins > Add New > Upload Plugin**.
 4. Upload the ZIP and activate the plugin.

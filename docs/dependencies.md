@@ -1,6 +1,6 @@
 # Dependency baseline
 
-This document defines the dependency, security, build, and distribution policy for `mivabyte-digital/media-folders`.
+This document defines the dependency, security, build, and distribution policy for `mivabyte/media-folders`.
 
 ## Runtime contracts
 

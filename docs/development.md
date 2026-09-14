@@ -16,7 +16,7 @@ The exact JavaScript package-manager contract is recorded in `package.json`. Dep
 
 ```bash
 # Clone the maintained repository
-git clone https://github.com/mivabyte-digital/media-folders.git
+git clone https://github.com/mivabyte/media-folders.git
 cd media-folders
 
 # Install the exact locked dependency graphs
@@ -414,7 +414,7 @@ WordPress.org deployment is a separate, explicit manual workflow. It pins the ex
 2. Keep feature work separate from dependency-major migrations.
 3. Write or update tests for behavioral changes.
 4. Run the checks listed in [CONTRIBUTING.md](../CONTRIBUTING.md).
-5. Push the branch and open a pull request against `mivabyte-digital/media-folders`.
+5. Push the branch and open a pull request against `mivabyte/media-folders`.
 6. Reference upstream commits or pull requests when porting upstream work.
 
 ### Code Style

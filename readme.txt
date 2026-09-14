@@ -76,10 +76,10 @@ When inserting media from a block (Image, Gallery, etc.):
 
 = Documentation =
 
-* [Accessibility](https://github.com/mivabyte-digital/media-folders/blob/main/docs/a11y.md) – Keyboard navigation and screen reader support
-* [Development](https://github.com/mivabyte-digital/media-folders/blob/main/docs/development.md) – Setup, API reference, hooks, and contributing
+* [Accessibility](https://github.com/mivabyte/media-folders/blob/main/docs/a11y.md) – Keyboard navigation and screen reader support
+* [Development](https://github.com/mivabyte/media-folders/blob/main/docs/development.md) – Setup, API reference, hooks, and contributing
 * [MCP Integration](https://github.com/soderlind/vmfa-ai-ability/blob/main/docs/mcp.md) – MCP client configuration, upload flow, and AI agent usage using the [AI Ability](https://github.com/soderlind/vmfa-ai-ability) add-on
-* [Add-on Development](https://github.com/mivabyte-digital/media-folders/blob/main/docs/addon-development.md) – Guide to building add-on plugins
+* [Add-on Development](https://github.com/mivabyte/media-folders/blob/main/docs/addon-development.md) – Guide to building add-on plugins
 
 
 == Installation ==
@@ -125,7 +125,7 @@ Virtual Media Folders works entirely within the WordPress admin. It doesn't affe
 
 = Does this .. ? =
 
-If you are missing a feature and the [add-ons](https://github.com/soderlind/vmfa/) don't cover it, please [open a feature request](https://github.com/mivabyte-digital/media-folders/issues/new) :)
+If you are missing a feature and the [add-ons](https://github.com/soderlind/vmfa/) don't cover it, please [open a feature request](https://github.com/mivabyte/media-folders/issues/new) :)
 
 The [Migrate](https://github.com/soderlind/vmfa-migrate) add-on was created in response to a user request for migration from Enhanced Media Library, but it also supports FileBird, Real Media Library, HappyFiles, WP Media Folder, Media Library Assistant, and CatFolders.
 
@@ -274,7 +274,7 @@ The [Migrate](https://github.com/soderlind/vmfa-migrate) add-on was created in r
 
 = 1.6.1 =
 * Changed: Add-on tabs are now sorted alphabetically by title in the settings page
-* Documentation: Added comprehensive [Add-on Development Guide](https://github.com/mivabyte-digital/media-folders/blob/main/docs/addon-development.md) with philosophy, architecture, and implementation details
+* Documentation: Added comprehensive [Add-on Development Guide](https://github.com/mivabyte/media-folders/blob/main/docs/addon-development.md) with philosophy, architecture, and implementation details
 
 = 1.6.0 =
 * Added: Add-on Tab System - Settings page now supports tabs for add-on plugins

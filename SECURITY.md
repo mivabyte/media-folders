@@ -16,7 +16,7 @@ Do **not** open a public issue for a suspected vulnerability.
 
 Use GitHub's private vulnerability reporting for this repository:
 
-https://github.com/mivabyte-digital/media-folders/security/advisories/new
+https://github.com/mivabyte/media-folders/security/advisories/new
 
 Include, where possible:
 
