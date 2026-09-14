@@ -1,6 +1,6 @@
 # Development Guide
 
-This document covers development setup, project structure, and contribution guidelines for Virtual Media Folders as maintained by Mivama Digital.
+This document covers development setup, project structure, and contribution guidelines for Virtual Media Folders as maintained by Mivabyte Digital.
 
 ## Requirements
 
@@ -16,7 +16,7 @@ The exact JavaScript package-manager contract is recorded in `package.json`. Dep
 
 ```bash
 # Clone the maintained repository
-git clone https://github.com/mivama-digital/media-folders.git
+git clone https://github.com/mivabyte/media-folders.git
 cd media-folders
 
 # Install the exact locked dependency graphs
@@ -410,11 +410,11 @@ WordPress.org deployment is a separate, explicit manual workflow. It pins the ex
 
 ## Contributing
 
-1. Create a short-lived branch from the Mivama `main` branch.
+1. Create a short-lived branch from the Mivabyte `main` branch.
 2. Keep feature work separate from dependency-major migrations.
 3. Write or update tests for behavioral changes.
 4. Run the checks listed in [CONTRIBUTING.md](../CONTRIBUTING.md).
-5. Push the branch and open a pull request against `mivama-digital/media-folders`.
+5. Push the branch and open a pull request against `mivabyte/media-folders`.
 6. Reference upstream commits or pull requests when porting upstream work.
 
 ### Code Style

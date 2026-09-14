@@ -73,7 +73,7 @@ Major dependency upgrades belong in isolated pull requests so their compatibilit
 
 ## Upstream-derived changes
 
-When adopting work from `soderlind/virtual-media-folders`, preserve authorship and license information. Prefer a traceable cherry-pick when the upstream commit applies cleanly. When reimplementing a change, reference the relevant upstream commit or pull request in the Mivama pull request description.
+When adopting work from `soderlind/virtual-media-folders`, preserve authorship and license information. Prefer a traceable cherry-pick when the upstream commit applies cleanly. When reimplementing a change, reference the relevant upstream commit or pull request in the Mivabyte pull request description.
 
 See [UPSTREAM.md](UPSTREAM.md) for the maintenance policy.
 
@@ -83,4 +83,4 @@ Release changes are reviewed separately from normal feature work. The release ar
 
 The installable WordPress ZIP must not contain `vendor/`, `composer.json`, `composer.lock`, tests, security metadata, or repository-only tooling. CI validates the actual ZIP, npm and shipped-PHP runtime SBOMs, SHA-256 checksums, runtime dependency licenses, audit baselines, autoload boundary, and engine contract before a release change is considered ready.
 
-Do not deploy to WordPress.org merely by creating a Git tag. WordPress.org deployment requires an explicit manual action, a matching release version/tag, passing release gates, the explicit `virtual-media-folders` SVN slug, and configured Mivama-owned credentials. The deployment workflow defaults to dry-run mode; a real SVN commit must be selected deliberately.
+Do not deploy to WordPress.org merely by creating a Git tag. WordPress.org deployment requires an explicit manual action, a matching release version/tag, passing release gates, the explicit `virtual-media-folders` SVN slug, and configured Mivabyte-owned credentials. The deployment workflow defaults to dry-run mode; a real SVN commit must be selected deliberately.

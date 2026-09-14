@@ -20,13 +20,13 @@
 			"role": "Original author"
 		},
 		{
-			"name": "Mivama Digital",
+			"name": "Mivabyte Digital",
 			"role": "Maintainer"
 		}
 	],
 	"support": {
-		"issues": "https://github.com/mivama-digital/media-folders/issues",
-		"source": "https://github.com/mivama-digital/media-folders"
+		"issues": "https://github.com/mivabyte/media-folders/issues",
+		"source": "https://github.com/mivabyte/media-folders"
 	},
 	"require": {
 		"php": ">=8.3",

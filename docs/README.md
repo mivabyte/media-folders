@@ -1,6 +1,6 @@
 # Documentation
 
-Reference documentation for Virtual Media Folders as maintained by Mivama Digital.
+Reference documentation for Virtual Media Folders as maintained by Mivabyte Digital.
 
 | Document | Description |
 |----------|-------------|
